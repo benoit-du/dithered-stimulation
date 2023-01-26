@@ -1,0 +1,3 @@
+module load MATLAB/R2019b
+mcc -v \
+    -m  SCM_wrapper.m SCM_rotationNumber.m SCM_fwdSim.m uniRand.m
